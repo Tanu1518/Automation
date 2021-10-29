@@ -1,0 +1,11 @@
+This site can be done better as if we change these it will be more easy and familiar for users.
+ we should ensure that the text is legible a proper font we should  use 
+ How long should the lines be?
+1) Heading  text we can change as typeface (Times New Roman) and in proper font so it will look more user  familiar
+2)Applicant details column size can be change as proper size 
+3) Title and First name we can change in two different Row.
+4)For legible text, there needs to be sufficient contrast between the brightness of the background and foreground colours.  example choose proper color for Whether power supply address is same as billing address * and colour of that column too
+5)need to set full Table as proper Raw and column
+6) YES/NO bottun should place properly and the font size need to change.
+7) Amount value in column should give in a proper way. Value after decimal should given as 2 digit. example: 0.00
+8) Upload image or document should be given in same column and font size and typeface should be proper.
