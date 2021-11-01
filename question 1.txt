@@ -1,0 +1,18 @@
+1) Check the table is it created as per the requirement
+2) Give any name in component raw and check
+3)Give any statement in discription raw and check
+4)Give any value in price raw and check
+5)keep component raw as empty and check it's should not redirect to other page
+6)keep the price raw as empty and check it's should not redirect to other page
+7)Give any name in component raw with some number and check
+8)Give only number in component raw and check
+9)Give only special character in component raw and check
+10)Give only special character in price raw and check
+11) Keep long name in Component raw and check
+12)Keep long value in price raw and check
+13)Add image in image column and check
+14)Add image in component column and check
+15)Add image in price column and check
+16) Add a large size of image and check it should not upload
+17)Don't add any image and check it shouldn't through any error.
+18) Give some negative value in price and check
